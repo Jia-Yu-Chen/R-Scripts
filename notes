@@ -1,0 +1,9 @@
+# keep on updating
+
+# customized color scale
+colorRampPalette(c("black","yellow"))(100)
+# Create a "list" object where i-th column of "matrix" will represent i-th element of that list object.
+as.list(as.data.frame(matrix))
+# Convert Numeric to Factor
+cut 
+
